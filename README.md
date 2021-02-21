@@ -11,6 +11,7 @@
 * [RxJava](https://github.com/ReactiveX/RxJava) - To background thread processing and managing http network calls.
 * [Retrofit2](https://square.github.io/retrofit/) - To manage API services calls .
 * [Couchbase Lite Java](https://docs.couchbase.com/couchbase-lite/2.7/introduction.html) - To manage local persist and cache info .
+* [RealtimeBlurView](https://github.com/mmin18/RealtimeBlurView) - to produce blur effect.
 
 ## Arquitecture
 
